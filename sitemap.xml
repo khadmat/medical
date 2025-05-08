@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="https://medical-two-neon.vercel.app/sitemap.xsl"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+<url>
+<loc>https://medical-two-neon.vercel.app/</loc>
+</url>
+<url>
+<loc>https://medical-two-neon.vercel.app/kl-m-thtj-maarfth-aan-mstlzmt-tby/</loc>
+<lastmod>2025-05-08T14:50:44+03:00</lastmod>
+<image:image>
+<image:loc>https://medical-two-neon.vercel.app/media/posts/2/medical-supplies-store.jpeg</image:loc>
+<image:title><![CDATA[ مستلزمات طبية ]]></image:title>
+</image:image>
+</url>
+<url>
+<loc>https://medical-two-neon.vercel.app/kl-m-thtj-maarfth-aan-shraa-lqsr-laayny/</loc>
+<lastmod>2025-05-08T14:49:53+03:00</lastmod>
+<image:image>
+<image:loc>https://medical-two-neon.vercel.app/media/posts/4/mHlt-lqSr-laayny.jpg</image:loc>
+<image:title><![CDATA[ مستلزمات طبية ]]></image:title>
+</image:image>
+</url>
+<url>
+<loc>https://medical-two-neon.vercel.app/mn-nhn/</loc>
+<lastmod>2025-05-08T14:25:10+03:00</lastmod>
+</url>
+<url>
+<loc>https://medical-two-neon.vercel.app/mstlzmt-tby-dlyl-shml-mn-kbr-mtjr-tby-fy-msr/</loc>
+<lastmod>2025-05-08T14:49:19+03:00</lastmod>
+<image:image>
+<image:loc>https://medical-two-neon.vercel.app/media/posts/3/medical-supplies-store.jpeg</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+</url>
+<url>
+<loc>https://medical-two-neon.vercel.app/shraa-lqsr-laayny-llmstlzmt-ltby-qlb-ltjr-ltby-fy-msr/</loc>
+<lastmod>2025-05-08T14:50:13+03:00</lastmod>
+<image:image>
+<image:loc>https://medical-two-neon.vercel.app/media/posts/5/mHlt-lqSr-laayny.jpg</image:loc>
+<image:title><![CDATA[ مستلزمات طبية ]]></image:title>
+</image:image>
+</url>
+<url>
+<loc>https://medical-two-neon.vercel.app/twsl-maan/</loc>
+<lastmod>2025-05-08T14:26:21+03:00</lastmod>
+</url>
+</urlset>
